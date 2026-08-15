@@ -15,6 +15,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/irfan-putra-b8213a421/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="https://app.notion.com/p/3bd3249fe1648005ad2bde7c90f43c55?v=3bd3249fe16480fb923d000cef4a82a4&source=copy_link"><img width="32px" alt="Notion" title="Notion" src="https://i.imgur.com/zXU0Gkb.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <br/>
