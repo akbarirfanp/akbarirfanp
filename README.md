@@ -6,7 +6,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Irfan%20Akbar%20Pramana%Putra;Web%20and%20App%20developer;Tech%20Enthusiast;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Irfan%20Akbar%20Pramana%20Putra;Web%20And%20App%20developer;Tech%20Enthusiast;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -33,7 +33,7 @@
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=DenverCoder1&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="akbarirfanp's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=akbarirfanp&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
