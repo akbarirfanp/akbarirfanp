@@ -1,4 +1,4 @@
-<!-- <p align="center">
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d5f2141e-9aa9-45f3-9499-f449aae095f6" /><!-- <p align="center">
   <a href="https://github.com/akbarirfanp">
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Irfan Akbar" /></a>
 </p> -->
@@ -15,7 +15,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/irfan-putra-b8213a421/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://app.notion.com/p/3bd3249fe1648005ad2bde7c90f43c55?v=3bd3249fe16480fb923d000cef4a82a4&source=copy_link"><img width="32px" alt="Notion" title="Notion" src="https://i.imgur.com/zXU0Gkb.png"/></a>
+   <a href="https://app.notion.com/p/3bd3249fe1648005ad2bde7c90f43c55?v=3bd3249fe16480fb923d000cef4a82a4&source=copy_link"><img width="32px" alt="Notion" title="Notion" src="https://img.icons8.com/?size=100&id=nvtEH6DpqruC&format=png&color=F25081"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
