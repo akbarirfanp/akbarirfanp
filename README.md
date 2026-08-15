@@ -1,4 +1,3 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d5f2141e-9aa9-45f3-9499-f449aae095f6" /><!-- <p align="center">
   <a href="https://github.com/akbarirfanp">
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Irfan Akbar" /></a>
 </p> -->
