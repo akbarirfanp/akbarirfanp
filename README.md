@@ -9,7 +9,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/irfan-putra-b8213a421/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://img.icons8.com/?size=100&id=2xFS7aynbwiR&format=png&color=F25081"><img width="32px" alt="Notion" title="Notion" src="https://img.icons8.com/?size=200&id=Z4D1c6umYjV5&format=png&color=F25081"/></a>
+   <a href="https://portfolio-gamma-swart-65.vercel.app/about"><img width="32px" alt="Notion" title="Notion" src="https://img.icons8.com/?size=100&id=2xFS7aynbwiR&format=png&color=F25081"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
