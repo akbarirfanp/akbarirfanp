@@ -1,5 +1,4 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5d433510-1b86-402f-ad33-eb4ee1eb2b08" /><p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Irfan%20Akbar%20Pramana%20Putra;Web%20And%20App%20developer;Tech%20Enthusiast;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
