@@ -1,4 +1,4 @@
-<p align="center">
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5d433510-1b86-402f-ad33-eb4ee1eb2b08" /><p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Irfan%20Akbar%20Pramana%20Putra;Web%20And%20App%20developer;Tech%20Enthusiast;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
@@ -10,7 +10,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/irfan-putra-b8213a421/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://app.notion.com/p/Hello-I-m-Irfan-Akbar-9613249fe16483ab9e260170d1fc5422?source=copy_link"><img width="32px" alt="Notion" title="Notion" src="https://img.icons8.com/?size=200&id=Z4D1c6umYjV5&format=png&color=F25081"/></a>
+   <a href="https://img.icons8.com/?size=100&id=2xFS7aynbwiR&format=png&color=F25081"><img width="32px" alt="Notion" title="Notion" src="https://img.icons8.com/?size=200&id=Z4D1c6umYjV5&format=png&color=F25081"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
